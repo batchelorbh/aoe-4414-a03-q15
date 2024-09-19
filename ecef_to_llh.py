@@ -12,7 +12,7 @@
 #  Prints the converged latitude (deg), longitude (deg), and HAE (km)
 #
 # Written by Brad Denby
-# Other contributors: None
+# Other contributors: Blake Batchelor
 #
 # This work is licensed under CC BY-SA 4.0
 
